@@ -1,3 +1,0 @@
-sqlcmd -S xserver-s9 -i Synonym_ALL.sql -o Synonym_ALL.out -b -d master
-sqlcmd -S xserver-s9 -i Check.sql -b -d master
-pause
